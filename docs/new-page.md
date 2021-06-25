@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: New Page
 permalink: /new-page
 ---
