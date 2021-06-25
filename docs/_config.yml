@@ -26,7 +26,7 @@ url: "https://intro-to-data-and-viz.github.io" # the base hostname & protocol fo
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
