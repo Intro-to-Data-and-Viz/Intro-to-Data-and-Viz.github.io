@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: /
+permalink: 
 ---
 
 # Here is a Page
