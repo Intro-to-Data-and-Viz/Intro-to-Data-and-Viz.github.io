@@ -6,7 +6,6 @@ layout: page
 title: Home
 ---
 
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
