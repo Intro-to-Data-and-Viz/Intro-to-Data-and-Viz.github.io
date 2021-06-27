@@ -2,6 +2,7 @@
 layout: page
 title: Wrangling
 permalink: /wrangling
+order: 4
 ---
 
 Wrangling Data
