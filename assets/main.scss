@@ -29,6 +29,15 @@
     background-color: darkgrey;
 }
 
+.dynamic-header {
+    background-color: darkgrey;
+    border-bottom: 5px solid grey;
+    border-top: 1px solid #e8e8e8;
+    min-height: 60px;
+    position: relative;
+    
+}
+
 html, body {
     height: 100%;
     width: 100%;
