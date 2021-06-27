@@ -35,3 +35,7 @@ toc2:
         url: /data-viz/audience.html
       - page: Storytelling
         url: /data-viz/storytelling.html
+  - title: Sharing Your Work
+    subfolderitems:
+      - page: Share
+        url:  /

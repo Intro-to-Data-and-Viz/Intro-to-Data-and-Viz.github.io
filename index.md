@@ -5,4 +5,6 @@
 layout: home
 ---
 
+
+
 Here you will find "quick resources". These resources are short, one-question posts contributed by anyone! They act as quick tutorials and an opportunity to contribute to the course.
