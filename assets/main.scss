@@ -18,6 +18,12 @@
     padding-left: 80px;
 }
 
+.checkmark { 
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */   
+}
+
 .page-content {
     display: table-cell;
 	padding-left: 80px;
