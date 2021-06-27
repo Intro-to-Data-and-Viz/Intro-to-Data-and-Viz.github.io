@@ -31,16 +31,18 @@
 }
 
 .dynamic-header {
-    background-color: darkgrey;
-    border-bottom: 5px solid grey;
-    border-top: 1px solid #e8e8e8;
-    min-height: 60px;
+    background-color: #557A95;
+    border-bottom: 5px solid #7395AE;
+    border-top: 1px solid #7395AE;
+    min-height: 72px;
     color: white;
-    font-size: 36px;
+    font-family: “Playfair Display”;
+    font-size: 42px;
     font-weight: 300;
     line-height: 54px;
     letter-spacing: -1px;
     margin-bottom: 0;
+    padding-top: 20px;
     text-align: center;
     
 }
