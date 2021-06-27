@@ -5,9 +5,15 @@ permalink: /introduction
 order: 1
 ---
 
-# Introduction to Data Analytics & Visualization 
+## Overview
 
-> INFO ABOUT THIS COURSE HERE 
+- There *are* suggested prerequisites for this course - students can take the "Are you ready for this course?" questionnaire to review necessary skills/knowledge to get the most out of this course
+- This is a self-paced course with no set order. However, it is recommended to start with **Getting Ready** before any of the other modules
+- All assessed materials and class discussion will be submitted through **Moodle** 
+- The material in this course is hosted / available in a the **Companion Website** to make sure it is always available
+- Students are encouraged to submit posts to the companion website!
+
+<br>
 
 ### Course Learning Objectives
 `LO1`: The student should be able to identify appropriate tools for basic analytics tasks: data cleaning/manipulation, data exploration, data analysis, and data visualization. 
