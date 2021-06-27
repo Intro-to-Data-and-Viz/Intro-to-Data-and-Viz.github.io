@@ -6,39 +6,39 @@ toc2:
   - title: Getting Ready - Tools
     subfolderitems:
       - page: GitHub
-        url: /getting-ready/github.html
+        url: /getting-ready.html
       - page: Python
-        url: /getting-ready/python.html
+        url: /getting-ready.html
       - page: Tableau
-        url: /getting-ready/tableau.html
+        url: /getting-ready.html
   - title: Accessing
     subfolderitems:
       - page: APIs & Scrapers
-        url:  /accessing-data/apis-and-scrapers.html
+        url:  /accessing-data.html
       - page: Clients
-        url:  /accessing-data/clients.html
+        url:  /accessing-data.html
       - page: Security & Privacy
-        url:  /accessing-data/security-and-privacy.html
+        url:  /accessing-data.html
   - title: Wrangling
     subfolderitems:
       - page: Exploratory Analysis
-        url: /wrangling/exploratory.html
+        url: /wrangling.html
       - page: Transformations
-        url: /wrangling/transformations.html
+        url: /wrangling.html
       - page: Understanding
-        url:  /wrangling/understanding.html
+        url:  /wrangling.html
       - page: Documentation
-        url: /wrangling/documentation.html
+        url: /wrangling.html
   - title: Visualizing
     subfolderitems:
       - page: Cognitive Principles
-        url: /data-viz/cognitive-principles.html
+        url: /data-viz.html
       - page: Chart Types
-        url: /data-viz/chart-types.html
+        url: /data-viz.html
       - page: Audience
-        url: /data-viz/audience.html
+        url: /data-viz.html
       - page: Storytelling
-        url: /data-viz/storytelling.html
+        url: /data-viz.html
   - title: Sharing Your Work
     subfolderitems:
       - page: Share
