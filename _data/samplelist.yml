@@ -1,4 +1,8 @@
 toc2:
+  - title: 
+    subfolderitems:
+      - page: Introduction
+        url: /introduction
   - title: Getting Ready - Tools
     subfolderitems:
       - page: GitHub
@@ -7,8 +11,6 @@ toc2:
         url: /getting-ready/python.html
       - page: Tableau
         url: /getting-ready/tableau.html
-      - page: Checklist
-        url: /my-checklist.html
   - title: Accessing
     subfolderitems:
       - page: APIs & Scrapers
