@@ -21,7 +21,12 @@
 .page-content {
     display: table-cell;
 	padding-left: 80px;
+    padding-top: 100px;
 	vertical-align: top;
+}
+
+.site-header {
+    background-color: darkgrey;
 }
 
 html, body {
