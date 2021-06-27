@@ -3,47 +3,17 @@
 
   {%- include head.html -%}
 
+  <body>
 
-<body>
+    {%- include header.html -%}
 
-  {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
 
-  <!-- Load an icon library -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    {%- include footer.html -%}
 
-  <!-- The sidebar -->
-  <div class="sidebar">
-    {% if site.data.samplelist.toc2[0] %}
-      {% for item in site.data.samplelist.toc2 %}
-        <h3>{{ item.title }}</h3>
-          {% if item.subfolderitems[0] %}
-            <ul>
-              {% for entry in item.subfolderitems %}
-                  <li><a href="{{ entry.url }}">{{ entry.page }}</a>
-                    {% if entry.subsubfolderitems[0] %}
-                      <ul>
-                      {% for subentry in entry.subsubfolderitems %}
-                          <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
-                      {% endfor %}
-                      </ul>
-                    {% endif %}
-                  </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        {% endfor %}
-    {% endif %}
-    </div>
-
-  <main class="page-content" aria-label="Content">
-    
-
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
-
-  {%- include footer.html -%}
-
-</body>
+  </body>
 
