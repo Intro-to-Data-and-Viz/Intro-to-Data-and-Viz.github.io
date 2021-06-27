@@ -7,29 +7,31 @@ toc2:
         url: /getting-ready/python.html
       - page: Tableau
         url: /getting-ready/tableau.html
-  - title: Data Wrangling
+  - title: Accessing
+    subfolderitems:
+      - page: APIs & Scrapers
+        url:  /accessing-data/apis-and-scrapers.html
+      - page: Clients
+        url:  /accessing-data/clients.html
+      - page: Security & Privacy
+        url:  /accessing-data/security-and-privacy.html
+  - title: Wrangling
     subfolderitems:
       - page: Exploratory Analysis
-        url: /data-wrangling/exploratory.html
+        url: /wrangling/exploratory.html
       - page: Transformations
-        url: /data-wrangling/transformations.html
-      - page: Piece 3
-        url: /piece3.html
-        subsubfolderitems:
-          - page: Subpiece 1
-            url: /subpiece1.html
-          - page: Subpiece2
-            url: /subpiece2.html
-  - title: Group 3
+        url: /wrangling/transformations.html
+      - page: Understanding
+        url:  /wrangling/understanding.html
+      - page: Documentation
+        url: /wrangling/documentation.html
+  - title: Visualizing
     subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-        subsubfolderitems:
-          - page: Subwidget 1
-            url: /subwidget1.html
-          - page: Subwidget 2
-            url: /subwidget2.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html
+      - page: Cognitive Principles
+        url: /data-viz/cognitive-principles.html
+      - page: Chart Types
+        url: /data-viz/chart-types.html
+      - page: Audience
+        url: /data-viz/audience.html
+      - page: Storytelling
+        url: /data-viz/storytelling.html

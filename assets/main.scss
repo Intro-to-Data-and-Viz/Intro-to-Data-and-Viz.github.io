@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 .outer-container {
@@ -9,10 +10,10 @@
 }
 .sidenav {
     display: table-cell;
-	width: 30;
+	width: 40;
 	vertical-align: top;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 50px;
     padding-bottom: 50px;
     padding-left: 80px;
 }
