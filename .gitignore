@@ -9,3 +9,5 @@ _site/
 .bundle/
 vendor/
 
+# Ignore pdfs
+*.pdf

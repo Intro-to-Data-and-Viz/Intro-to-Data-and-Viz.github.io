@@ -7,6 +7,13 @@ order: 1
 
 ## Overview
 
+The course is designed to introduce you to data analytics and visualization by covering a few main topics:
+
+**Tools**: the tools introduced will be used to complete projects for the course topics.
+**Accessing Data**: this topic will introduce you to many common ways of accessing data, and considerations to be made when doing so.
+**Data Wrangling**: we will discuss common data wrangling issues, share some tools for completing some of the common tasks using python, and begin to think about documentation of our data.
+**Data Visualization**: we ultimately want to tell a story about our data, or improve the audience understanding. We will introduce some basic principles of data visualization, give some demonstration about how to use Tableau, and discuss common chart types and their purpose. 
+
 - There *are* suggested prerequisites for this course - students can take the "Are you ready for this course?" questionnaire to review necessary skills/knowledge to get the most out of this course
 - This is a self-paced course with no set order. However, it is recommended to start with **Getting Ready** before any of the other modules
 - All assessed materials and class discussion will be submitted through **Moodle** 
