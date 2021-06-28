@@ -34,20 +34,20 @@ There is also an option for contributing posts - which will act as mini-lessons,
 <br>
 ### Assessments 
 #### GitHub Classroom
-> Number of Assignments: one per topic
-> Assessed: immediately / automatic 
-> Personalized Feedback: once in a two week cycle
+> - Number of Assignments: one per topic
+> - Assessed: immediately / automatic 
+> - Personalized Feedback: once in a two week cycle
 
 This course has been integrated with GitHub Classroom to allow you to securely submit various pieces of work, provide automatic feedback, and not have to worry about posting your work publicly (yet). GitHub Classroom is also an opportunity to practice your Git/GitHub skills! 
 #### Quizzes
-> Number of Assignments: one per topic
-> Assessed: immediately / automatic
-> Personalized Feedback: none
+> - Number of Assignments: one per topic
+> - Assessed: immediately / automatic
+> - Personalized Feedback: none
 
 The quizzes are aimed to provide you an opportunity to check your own knowledge. They are designed in a way to test what you know and provide feedback for what to review based on your responses. 
 #### Culminating Project
-> Number of Assignments: One per Course
-> Assessed: once per course cycle 
-> Personalized Feedback: within 1 week if submitted in course cycle
+> - Number of Assignments: One per Course
+> - Assessed: once per course cycle 
+> - Personalized Feedback: within 1 week if submitted in course cycle
 
 The culminating project should bring together everything you have learned in this course. 
