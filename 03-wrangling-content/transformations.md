@@ -20,4 +20,4 @@ Once you have a handle on your data, and are starting to understand the changes 
   
 ### ☑️ Tasks
 
-## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling/)
+## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)

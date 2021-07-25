@@ -28,4 +28,4 @@ When you first gain access to a new dataset, you will want often want to being b
 - Import **new_dataset** into a Jupyter Notebook using **OUR_TEMPLATE**
 - Import **new_dataset** into Tableau and try to mimic the tasks from the Jupyter Notebook **TEMPLATE**
 
-## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling/)
+## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)

@@ -22,4 +22,4 @@ Documentation is really an extension of understanding, or a tool that will help 
 - Add definitions to [Moodle: The Course Term Database](https://moodle.met.ubc.ca/mod/data/field.php?d=3)
 
 
-## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling/)
+## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)

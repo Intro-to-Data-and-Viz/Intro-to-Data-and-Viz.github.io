@@ -27,4 +27,4 @@ This should be understanding of
 - **Post** your list of questions [Moodle: Discussion for Data Wrangling](https://moodle.met.ubc.ca/mod/forum/view.php?id=1251)
 
 
-## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling/)
+## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)
