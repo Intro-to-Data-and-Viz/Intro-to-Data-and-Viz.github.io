@@ -18,9 +18,9 @@ When you first gain access to a new dataset, you will want often want to being b
 - Jupyter/Python
 
 ### 📚 Resources
-- [Better, Faster, Stronger Python Exploratory Data Analysis](https://towardsdatascience.com/better-faster-stronger-python-exploratory-data-analysis-eda-e2a733890a64)
-- [Tableau for Exploratory Data Analysis (EDA)](https://towardsdatascience.com/tableau-for-exploratory-data-analysis-eda-c503aa84515a)
-
+- Phillipe Bouaziz, July 13, 2020. [Better, Faster, Stronger Python Exploratory Data Analysis](https://towardsdatascience.com/better-faster-stronger-python-exploratory-data-analysis-eda-e2a733890a64). Toward Data Science
+- Anooj, November 24, 2018. [Tableau for Exploratory Data Analysis (EDA)](https://towardsdatascience.com/tableau-for-exploratory-data-analysis-eda-c503aa84515a). Toward Data Science
+- Analytics University, December 2, 2018. Exploratory Analysis (EDA) Using Python (Jupyter Notebook): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NcbVYhQJvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ### ☑️ Tasks

@@ -14,7 +14,7 @@ Documentation is really an extension of understanding, or a tool that will help 
 - Your Choice
   
 ### 📚 Readings
-- [Data Dictionaries](https://www.usgs.gov/products/data-and-tools/data-management/data-dictionaries)
+- U.S. Department of the Interior, N.D. [Data Dictionaries](https://www.usgs.gov/products/data-and-tools/data-management/data-dictionaries)
   
 ### ☑️ Tasks
 - Write a data dictionary based upon your exploration, transformations, and questions

@@ -34,6 +34,7 @@ Each section below will have similar formats:
 
 # [Exploratory Analysis (select for learning activies)](https://intro-to-data-and-viz.github.io/wrangling/exploratory-analysis)
 > When you first gain access to a new dataset, you will want often want to being by exploring the data. So far, we have introduced two tools that can be helpful with this: Jupyter and Tableau. There are benefits and drawbacks to each, and you may find yourself using both rather than picking one or the other. 
+
 # [Transformations (select for learning activies)](https://intro-to-data-and-viz.github.io/wrangling/transformations)
 > Once you have a handle on your data, and are starting to understand the changes that need to be made - you can start transforming the data. 
 
@@ -48,5 +49,16 @@ Each section below will have similar formats:
 > Documentation is really an extension of understanding, or a tool that will help your future self and others understand what has been done. In early stages of a data project, documentation can also help you keep track of important information, next steps, or new ideas.
 
   
+# 
 
- 
+ --- 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
