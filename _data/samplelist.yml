@@ -22,13 +22,13 @@ toc2:
   - title: Wrangling
     subfolderitems:
       - page: Exploratory Analysis
-        url: /wrangling.html
+        url: /wrangling/exploratory-analysis.html
       - page: Transformations
-        url: /wrangling.html
+        url: /wrangling/transformations.html
       - page: Understanding
-        url:  /wrangling.html
+        url:  /wrangling/understanding.html
       - page: Documentation
-        url: /wrangling.html
+        url: /wrangling/documentation.html
   - title: Visualizing
     subfolderitems:
       - page: Cognitive Principles
