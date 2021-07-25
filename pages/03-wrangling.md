@@ -15,13 +15,25 @@ To get the most of the Data Wrangling section, we recommend reviewing "Getting R
 - `LO4` - Students should be able to write concise documentation of data cleaning steps (and/or next steps)
 - `LO5` - Students should be able to identify appropriate tools for 'data wrangling' and explain the purpose of the tools
 
+In this unit there are four sections. Each section has a list of suggested resources, a template Jupyter Notebook and/or Tableau workbook to demonstrate the skills you will be learning, and a list of tasks to complete. You can choose to submit **one** complete Tableau Workbook or Jupyter Notebook from a section for evaluation and personal feedback. All other submitted items will be auto-graded for correctness but will not include detailed feedback. 
+
+The deadline for submission for feedback is: **end of month**. 
+
 
 # [Exploratory Analysis](https://intro-to-data-and-viz.github.io/wrangling/exploratory-analysis)
+> When you first gain access to a new dataset, you will want often want to being by exploring the data. So far, we have introduced two tools that can be helpful with this: Jupyter and Tableau. There are benefits and drawbacks to each, and you may find yourself using both rather than picking one or the other. 
 # [Transformations](https://intro-to-data-and-viz.github.io/wrangling/transformations)
+> Once you have a handle on your data, and are starting to understand the changes that need to be made - you can start transforming the data. 
 
 # [Understanding](https://intro-to-data-and-viz.github.io/wrangling/understanding)
-# [Documentation](https://intro-to-data-and-viz.github.io/wrangling/documentation)
+> This should be understanding of
+- the data
+- the problem
+- your process so far
+- the client's needs 
 
+# [Documentation](https://intro-to-data-and-viz.github.io/wrangling/documentation)
+> Documentation is really an extension of understanding, or a tool that will help your future self and others understand what has been done. In early stages of a data project, documentation can also help you keep track of important information, next steps, or new ideas.
 
   
 
