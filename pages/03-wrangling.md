@@ -9,7 +9,7 @@ Data "Wrangling" is often seen as the preliminary step of any data project, howe
 
 To get the most of the Data Wrangling section, we recommend reviewing "Getting Ready" to make sure you have GitHub, Tableau, and Python/Jupyter installed and ready to go.
 
-You will see the following learning objectives repeated as you explore Exploratory Analysis, Transformation, Understanding, and Documentation sections (p.s. for any MET folks reviewing this course, all links to these sections are **live**!). You can ask questions in the Moodle Site: https://moodle.met.ubc.ca/mod/forum/view.php?id=1251 
+You will see the following learning objectives repeated as you explore Exploratory Analysis, Transformation, Understanding, and Documentation sections (p.s. for any MET folks reviewing this course, all links to these sections are **live**!). You can ask questions in the unit's [Support and Collaboration Forum](https://moodle.met.ubc.ca/mod/forum/view.php?id=1251). You can also review your understanding at any point (or multiple times) by taking the [Data Wrangling Moodle Quiz](https://moodle.met.ubc.ca/mod/quiz/view.php?id=1235)
 
 - `LO1` – Students should be able to assess a novel dataset for errors and/or anomalies using Tableau and develop a plan to address the found issues
 - `LO2` – Students should be able to create an exploratory Tableau Workbook or Jupyter Notebook for a new dataset that will help with their understanding of the data
