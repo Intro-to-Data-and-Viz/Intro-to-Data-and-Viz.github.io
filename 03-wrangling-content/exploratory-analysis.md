@@ -24,9 +24,9 @@ When you first gain access to a new dataset, you will want often want to being b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NcbVYhQJvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ### ☑️ Tasks
-- Review **TEMPLATE_NOTEBOOK** 
-- Import **new_dataset** into a Jupyter Notebook using **OUR_TEMPLATE**
-- Import **new_dataset** into Tableau and try to mimic the tasks from the Jupyter Notebook **TEMPLATE**
+- Review **the exploratory analysis template notebook** (link) 
+- Import your dataset into a the template
+- Import your dataset into **the tableau template** and try to mimic the tasks from the Jupyter Notebook template
 
 ### Optional Submissions
 - Submit your data transformation Jupyter Notebook to GitHub Classroom: [Moodle Submission- Data Wrangling GitHub Classroom](https://moodle.met.ubc.ca/mod/lti/view.php?id=1460)
