@@ -7,7 +7,9 @@ order: 4
 
 Data "Wrangling" is often seen as the preliminary step of any data project, however, you will find the more you work with various data sets, that you will often find yourself "wrangling" all the way through. 
 
-To get the most of the Data Wrangling section, we recommend reviewing "Getting Ready" to make sure you have GitHub, Tableau, and Python/Jupyter installed and ready to go. #COMMUNICATION POINT#
+To get the most of the Data Wrangling section, we recommend reviewing "Getting Ready" to make sure you have GitHub, Tableau, and Python/Jupyter installed and ready to go.
+
+You will see the following learning objectives repeated as you explore Exploratory Analysis, Transformation, Understanding, and Documentation sections (p.s. for any MET folks reviewing this course, all links to these sections are **live**!). 
 
 - `LO1` – Students should be able to assess a novel dataset for errors and/or anomalies using Tableau and develop a plan to address the found issues
 - `LO2` – Students should be able to create an exploratory Tableau Workbook or Jupyter Notebook for a new dataset that will help with their understanding of the data
@@ -36,11 +38,11 @@ Each section below will have similar formats:
 > Once you have a handle on your data, and are starting to understand the changes that need to be made - you can start transforming the data. 
 
 # [Understanding](https://intro-to-data-and-viz.github.io/wrangling/understanding)
-> This should be understanding of
-- the data
-- the problem
-- your process so far
-- the client's needs 
+> Understanding refers to your understanding as the analyst of both the data, and the project you are pursuing. You want to understand:
+- the data you have collected
+- the problem you are trying to solve
+- your process so far, and what you have learned
+- the client's needs (stated and unstated)
 
 # [Documentation](https://intro-to-data-and-viz.github.io/wrangling/documentation)
 > Documentation is really an extension of understanding, or a tool that will help your future self and others understand what has been done. In early stages of a data project, documentation can also help you keep track of important information, next steps, or new ideas.
