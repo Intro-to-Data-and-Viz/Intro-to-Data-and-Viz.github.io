@@ -28,4 +28,8 @@ When you first gain access to a new dataset, you will want often want to being b
 - Import **new_dataset** into a Jupyter Notebook using **OUR_TEMPLATE**
 - Import **new_dataset** into Tableau and try to mimic the tasks from the Jupyter Notebook **TEMPLATE**
 
+### Optional Submissions
+- Submit your data transformation Jupyter Notebook to GitHub Classroom: [Moodle Submission- Data Wrangling GitHub Classroom](https://moodle.met.ubc.ca/mod/lti/view.php?id=1460)
+  > Indicate whether this submission is for feedback or automated grading
+
 ## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)

@@ -14,7 +14,6 @@ This should be understanding of
 - your process so far
 - the client's needs 
 
-
 ### 🛠 Tools
 - Your Choice
 
@@ -26,5 +25,7 @@ This should be understanding of
 - Write a list of questions based upon the client requirements and your exploration so far
 - **Post** your list of questions [Moodle: Discussion for Data Wrangling](https://moodle.met.ubc.ca/mod/forum/view.php?id=1251)
 
-
+### Optional Submissions
+- None
+  
 ## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)

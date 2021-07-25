@@ -15,10 +15,19 @@ To get the most of the Data Wrangling section, we recommend reviewing "Getting R
 - `LO4` - Students should be able to write concise documentation of data cleaning steps (and/or next steps)
 - `LO5` - Students should be able to identify appropriate tools for 'data wrangling' and explain the purpose of the tools
 
-In this unit there are four sections. Each section has a list of suggested resources, a template Jupyter Notebook and/or Tableau workbook to demonstrate the skills you will be learning, and a list of tasks to complete. You can choose to submit **one** complete Tableau Workbook or Jupyter Notebook from a section for evaluation and personal feedback. All other submitted items will be auto-graded for correctness but will not include detailed feedback. 
+In this unit there are four sections. Each section has a list of suggested resources, a template Jupyter Notebook and/or Tableau workbook to demonstrate the skills you will be learning, and a list of tasks to complete. 
+
+Tasks can be submitted for auto-grading through the Moodle Course.
+
+You can choose to submit **one** complete Tableau Workbook or Jupyter Notebook from a section for evaluation and personal feedback. All other submitted items will be auto-graded for correctness but will not include detailed feedback. 
 
 The deadline for submission for feedback is: **end of month**. 
 
+Each section below will have similar formats:
+- 🛠 Tools: which tools will be featured, and might be useful to review setup for
+- 📚 Resources: available resources to learn terminology, and get started
+- ☑️ Tasks: your learning activities for practice and/or submission. Most sections will include a task to review and rewrite a template Jupyter Notebook or Tableau Workbook 
+- Optional Submissions: you have the option to submit any of these for automated grading, and to indicate **one** submission for personalized feedbac
 
 # [Exploratory Analysis](https://intro-to-data-and-viz.github.io/wrangling/exploratory-analysis)
 > When you first gain access to a new dataset, you will want often want to being by exploring the data. So far, we have introduced two tools that can be helpful with this: Jupyter and Tableau. There are benefits and drawbacks to each, and you may find yourself using both rather than picking one or the other. 

@@ -19,5 +19,13 @@ Once you have a handle on your data, and are starting to understand the changes 
 - [Alternatives to Pandas](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
   
 ### ☑️ Tasks
+- Adapt the transformations jupyter notebook for your dataset to clean and create summary tables
+- Review building a Jupyter Notebook for data transformations: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0etiYuJJl1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Optional Submissions
+- Submit your data transformation Jupyter Notebook to GitHub Classroom: [Moodle Submission- Data Wrangling GitHub Classroom](https://moodle.met.ubc.ca/mod/lti/view.php?id=1460)
+  > Indicate whether this submission is for feedback or automated grading
 
 ## [Return to Wrangling](https://intro-to-data-and-viz.github.io/wrangling)
