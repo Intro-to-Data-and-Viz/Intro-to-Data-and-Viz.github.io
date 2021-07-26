@@ -19,7 +19,9 @@ Once you have a handle on your data, and are starting to understand the changes 
 - Hassan Syyid, August 10, 2019. [Python Data Transformation Tools for ETL](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0). Towrds Data Science
   
 ### ☑️ Tasks
-- Adapt the transformations jupyter notebook for your dataset to clean and create summary tables
+- Adapt the transformations jupyter notebook for your dataset to clean and create summary tables:
+  - From Richard Peterson's GitHub: 
+  - https://github.com/rchardptrsn/Pandas-Data-Transformation/blob/master/Pandas%20Data%20Transformation.ipynb 
 - Review building a Jupyter Notebook for data transformations: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0etiYuJJl1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

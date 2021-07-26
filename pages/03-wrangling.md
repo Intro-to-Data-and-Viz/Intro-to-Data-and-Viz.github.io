@@ -23,7 +23,7 @@ Each section below will have similar formats:
 - 🛠 Tools: which tools will be featured, and might be useful to review setup for
 - 📚 Resources: available resources to learn terminology, and get started
 - ☑️ Tasks: your learning activities for practice and/or submission. Most sections will include a task to review and rewrite a template Jupyter Notebook or Tableau Workbook 
-- Optional Submissions: you have the option to submit any of these for automated grading, and to indicate **one** submission for personalized feedbac
+- Optional Submissions: you have the option to submit any of these for automated grading trhough GitHub Classroom, and to indicate **one** submission for personalized feedback
   
 ## Important
 - Tasks can be submitted for auto-grading through the Moodle Course using GitHub Classroom.
